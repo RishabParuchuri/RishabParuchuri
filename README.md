@@ -1,4 +1,4 @@
-### Hi there 👋
+![alt text](https://github.com/RishabParuchuri/RishabParuchuri/blob/main/GithubProfile.png?raw=true)
 
 <!--
 **RishabParuchuri/RishabParuchuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
